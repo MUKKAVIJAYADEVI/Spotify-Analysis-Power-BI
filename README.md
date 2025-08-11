@@ -44,7 +44,8 @@ It demonstrates **data modeling, DAX calculations, and dashboard design** to gen
 
 
 ##  How to Use
-1. Download the `.pbix` file from this repository.
+https://drive.google.com/file/d/1fAlfRaZOgevJn1zJqcnup3O7e_w0Ul7p/view?usp=sharing
+1. Download the 'Spotify Analysis Power BI Project.pbix' file from this above drive link.
 2. Open it in **Power BI Desktop**.
 3. Explore the dashboard and interact with the visuals.
 
